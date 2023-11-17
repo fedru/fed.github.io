@@ -1,57 +1,50 @@
 body {
 	background: #000000;
-	background-image: url('https://media.tenor.com/PVuSQX0VFccAAAAC/serial-experiments-lain-lain.gif');
+	background-image: url('https://steamuserimages-a.akamaihd.net/ugc/784109908362119236/F55FFAA1DF7194B97A4A526D5CFEE1427187D779/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false');
 	background-size: cover;
 	font-family: 'Trebuchet ms';
 
 }	
 
 
-
-.WebsiteLogo {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-
-
-.PseudoHeader {
-    font-size: 20px;
-    color: #FFFFFF;
-    text-align: center;
-    text-decoration: underline;
-}
-
-
-
-.Introduction {
+.Social {
 	color: #FFFFFF;
-	text-align: center;
+	font-style: italic;
+	text-align: right;
+	font-size: 30px;
 }
-
-
-
-
-.Telegram {
-	color: #FFFFFF;
-	font-size: 15px;
-	text-align: center;
-}
-
-
-
 
 .Discord {
 	color: #FFFFFF;
-	font-size: 15px;
-	text-align: center;
+	font-style: italic;
+	text-align: right;
+}
 
+.Telegram {
+	font-style: italic;
+	text-align: right;
+}
 
+.Description {
+	color: #FFFFFF;
+	font-style: italic;
+	text-align: right;
+}
 
+.Hobbies {
+	color: #FFFFFF;
+	font-style: italic;
+	text-align: right;
+}
 
-.Service {
-	color: white;
-	font-size: 20px;
-	text-align: center;
-}	
+.Services {
+	color: #FFFFFF;
+	font-style: italic;
+	text-align: right;
+}
+
+.ComingSoon {
+	color: #FFFFFF;
+	font-style: italic;
+	text-align: right;
+}
